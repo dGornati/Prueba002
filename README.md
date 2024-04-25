@@ -1,1 +1,1 @@
-# [Link a la página](https://dgornati.github.io/Prueba002.github.io/)
+# [Link a la página](https://dgornati.github.io)
